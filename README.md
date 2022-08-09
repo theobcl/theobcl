@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Théophile</h1>
-<h3 align="center">After gratuating from EMLyon Business School, I had several experiences in the digital industry and gratuated from the Wagon bootcamp. I discovered a passion for code and am now looking for a Fullstack Developer position.</h3>
+<h3 align="center">After gratuating from EMLyon Business School, I had several experiences in the digital industry and gratuated from the Wagon bootcamp. I discovered a passion for code and am now working as a Fullstack Developer.</h3>
 
-- 🔭 I’m currently working on [FestivOut](https://github.com/JulienMalcouronne/FestivOut)
-
-- 🌱 I’m currently learning **Ruby on Rails**
-
-- 👯 I’m looking to collaborate on **Ruby on Rails projects**
-
-- 🤝 I’m looking for a **Fullstack Developer job**
+- 🔭 I’m currently working at [Capsens](https://github.com/CapSens)
 
 - 📫 How to reach me **theophile.bancal@gmail.com**
 
