@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Théophile</h1>
-<h3 align="center">After gratuating from EMLyon Business School, I had several experiences in the digital industry and gratuated from the Wagon bootcamp. I discovered a passion for code and am now working as a Fullstack Developer.</h3>
+<h3 align="center">After gratuating from EMLyon Business School, I had several experiences in the digital industry and gratuated from the Wagon bootcamp. I discovered a passion for code and I am now working as a Fullstack Developer.</h3>
 
 - 🔭 I’m currently working at [Capsens](https://github.com/CapSens)
 
