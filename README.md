@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Théophile</h1>
-<h3 align="center">After gratuating from EMLyon Business School, I had several experiences in the digital industry and gratuated from the Wagon bootcamp and I am now working as a Fullstack Developer.</h3>
+<h3 align="center">After gratuating from EMLyon Business School, I had several experiences in the digital industry and gratuated from the Wagon bootcamp and I am now working as a Software Engineer.</h3>
 
-- 🔭 I’m currently working at [Le Collectionist](https://github.com/LeCollectionist)
+- 🔭 I’m currently working at [Pennylane](https://www.pennylane.com/)
 
 - 📫 How to reach me **theophile.bancal@gmail.com**
 
